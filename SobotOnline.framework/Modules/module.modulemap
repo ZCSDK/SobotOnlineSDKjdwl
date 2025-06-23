@@ -1,0 +1,6 @@
+framework module SobotOnline {
+  umbrella header "SobotOnline.h"
+  export *
+
+  module * { export * }
+}
