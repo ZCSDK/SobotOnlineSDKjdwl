@@ -6,7 +6,6 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <AvailabilityMacros.h>
 
 extern NSString * _Nonnull const SobotProgressHUDDidReceiveTouchEventNotification;
 extern NSString * _Nonnull const SobotProgressHUDDidTouchDownInsideNotification;
