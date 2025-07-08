@@ -17,6 +17,8 @@ NS_ASSUME_NONNULL_BEGIN
 @property(nonatomic,assign) CGFloat contentHeight;
 @property(nonatomic,assign) BOOL isAppear;
 
+@property(nonatomic,strong) NSString *realName;
+
 // 创建导航头
 -(void)createVCTitleView;
 -(void)setNavigationBarLeft:(NSArray *__nullable)leftTags right:(NSArray *__nullable)rightTags;

@@ -137,6 +137,10 @@ NS_ASSUME_NONNULL_BEGIN
 -(void)saveHost:(NSDictionary *) checkItem;
 
 
+
+/// 获取用户来源
+/// - Parameter source: 用户来源
+-(NSString *)getUserSourceName:(int )source;
 @end
 
 NS_ASSUME_NONNULL_END

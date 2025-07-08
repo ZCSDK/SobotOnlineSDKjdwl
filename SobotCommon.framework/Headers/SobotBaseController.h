@@ -16,6 +16,8 @@ NS_ASSUME_NONNULL_BEGIN
 typedef NS_ENUM(NSInteger,SobotButtonClick) {
     SobotButtonClickBack = 0,
     SobotButtonClickBackChat,
+    SobotButtonClickChatNO,
+    SobotButtonClickCloseChat,
     SobotButtonClickClose,
     SobotButtonClickMenu,
     SobotButtonClickRight,
