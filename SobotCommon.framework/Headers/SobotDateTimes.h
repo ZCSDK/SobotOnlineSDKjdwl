@@ -31,7 +31,7 @@ NSString *sobotBackToPassedTimeWithDaysNumberNoTimeZone(NSInteger number);
  *  @return 格式化后的字符串
  */
 NSString * sobotDateTransformString(NSString* formate,NSDate*date);
-NSString * sobotDateTransformStringZone(NSString* formate,NSDate*date,NSTimeZone *__nullable timeZone);
+NSString * sobotDateTransformStringZone(NSString* formate,NSDate*date,NSTimeZone *timeZone);
 
 /**
  *  longlong类型日期，转换为字符串

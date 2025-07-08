@@ -45,7 +45,7 @@ typedef NS_ENUM(NSInteger,SobotOnlineSocketConnectStatus) {
 @interface SobotOnlineSocketConnect : NSObject
 
 // 接收消息回调
-@property(nonatomic,strong) id<SobotSocketDelegate> __nullable delegate;
+@property(nonatomic,strong) id<SobotSocketDelegate> delegate;
 
 //临时需要，以后优化不需要
 @property(nonatomic,strong) NSString *uid;

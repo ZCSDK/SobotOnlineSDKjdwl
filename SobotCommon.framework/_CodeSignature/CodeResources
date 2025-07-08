@@ -26,7 +26,7 @@
 		</data>
 		<key>Headers/SobotBaseController.h</key>
 		<data>
-		8RmA2Me3TP4VZ1crEg6R/+Yeh78=
+		ANTvYpEfEuMKWInKW21ddv6mfvA=
 		</data>
 		<key>Headers/SobotBaseEntity.h</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Headers/SobotDateTimes.h</key>
 		<data>
-		tQo7UEIityvosEDWj1Y8rffppRA=
+		O5D/rj5lDB7oTk9srvlB5skpPo8=
 		</data>
 		<key>Headers/SobotDeviceTools.h</key>
 		<data>
@@ -138,7 +138,7 @@
 		</data>
 		<key>Headers/SobotLoginTools.h</key>
 		<data>
-		Y5LfHTNNIkcLnScntsVUplMpfVE=
+		+4+vj6F+XSGVskHWmoCfkq6FlTc=
 		</data>
 		<key>Headers/SobotLooperTools.h</key>
 		<data>
@@ -318,7 +318,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		rAsvBH4jU0zgyctG+1FLHb0Tbco=
+		oAazg1SBeqRC1Z/u2BAswjZozZU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -386,11 +386,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8RmA2Me3TP4VZ1crEg6R/+Yeh78=
+			ANTvYpEfEuMKWInKW21ddv6mfvA=
 			</data>
 			<key>hash2</key>
 			<data>
-			O3B/2he4lrJbXxogkcDXwdTaaVYoxEvyC2Gg2mTi6rI=
+			c92UxR+pYPvQ7XLnsvF6GuA/Cd2Fs7kwwD4R1WrtJjo=
 			</data>
 		</dict>
 		<key>Headers/SobotBaseEntity.h</key>
@@ -507,11 +507,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tQo7UEIityvosEDWj1Y8rffppRA=
+			O5D/rj5lDB7oTk9srvlB5skpPo8=
 			</data>
 			<key>hash2</key>
 			<data>
-			DZY8zRPrLWEluLuu1GYs/YXTeJc1PaFlrl8soe4CjWc=
+			r+s4g2TFaBXRdh/Q6gGi0GzOCad9WsiL5V0+3E4kB7Y=
 			</data>
 		</dict>
 		<key>Headers/SobotDeviceTools.h</key>
@@ -694,11 +694,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Y5LfHTNNIkcLnScntsVUplMpfVE=
+			+4+vj6F+XSGVskHWmoCfkq6FlTc=
 			</data>
 			<key>hash2</key>
 			<data>
-			yM//SpiUuMzpctEvwH2vQJ0c76M52oTS6Yc6U/zNi0k=
+			MDDWnDTEtMVjav1oHjXL3+aXFA9uf+Ib1aRPY1wzfdQ=
 			</data>
 		</dict>
 		<key>Headers/SobotLooperTools.h</key>

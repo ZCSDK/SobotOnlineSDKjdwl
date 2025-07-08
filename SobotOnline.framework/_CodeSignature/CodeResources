@@ -34,7 +34,7 @@
 		</data>
 		<key>Headers/SobotOnlineBaseController.h</key>
 		<data>
-		2+2zFidpZdLvFA84j5M0IGBtYAo=
+		OkF+zZXHrlR08uxa3Nz8vZQtOVM=
 		</data>
 		<key>Headers/SobotOnlineService.h</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Rb9lKeL5tompTAE1YQZzh0DqkX8=
+		THozElzuZ5zOcS3EKOX3BaQ7/Bo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -132,11 +132,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2+2zFidpZdLvFA84j5M0IGBtYAo=
+			OkF+zZXHrlR08uxa3Nz8vZQtOVM=
 			</data>
 			<key>hash2</key>
 			<data>
-			HigDGpA9uH4Otbhp1lvNrDzvJlO1jFrYCorDLUVbZ+g=
+			MJbz2X4tXSRSs05ZqCzri2tY6qPvHljJNIWLu+EYs1I=
 			</data>
 		</dict>
 		<key>Headers/SobotOnlineService.h</key>

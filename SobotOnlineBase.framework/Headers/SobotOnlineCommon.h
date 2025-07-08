@@ -62,14 +62,6 @@
 
 
 /**
- *  离线用户
- *
- *  @return
- */
-#define SobotNotification_OfflineUser @"SobotChangeOfflineUser"
-
-
-/**
  *  取消标记用户
  *
  *  @return

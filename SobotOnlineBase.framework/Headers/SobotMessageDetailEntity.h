@@ -56,7 +56,6 @@ typedef NS_ENUM(NSInteger,SobotMessageRichType) {
     SobotMessageRichTypeGoods = 3, // 小卡片
     SobotMessageRichTypeOrder  = 4, // 订单
     SobotMessageRichTypeWeChatCard  = 5, // 微信小卡片
-    SobotMessageRichTypeTemplateMsg  = 20, // 模版
     SobotMessageRichTypeBrowseTrack  = 114, // 浏览轨迹
 };
 

@@ -74,11 +74,6 @@ NS_ASSUME_NONNULL_BEGIN
 // 电话
 @property (nonatomic,strong) NSString *tel;
 
-@property(nonatomic,strong)NSArray *telList;
-
-@property (nonatomic,strong)NSString *encrypt;//电话号码密文
-@property (nonatomic,strong)NSString *oldTel;// 未修改前的电话号码
-
 // 性别
 @property (nonatomic,strong) NSString *sex;
 
@@ -148,21 +143,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic,strong)NSString *enterpriseId;// 公司ID
 @property (nonatomic,strong)NSString *enterpriseName;//公司名称
 
-
-@property (nonatomic,strong)NSString *countryId;
-@property (nonatomic,strong)NSString *countryName;
-
-
-// 10.29新增语言
-@property (nonatomic,strong)NSString *languageValue;
-@property (nonatomic,strong)NSString *language;
-
-// 10.29新增时区
-@property (nonatomic,strong)NSString *timezoneValue;
-@property (nonatomic,strong)NSString *timezoneId;
-
 @property (nonatomic,strong)NSString *QQNumber;// QQ
-@property(nonatomic,strong)NSString *wx;
 
 
 -(void)setSourceNameFromSource;
