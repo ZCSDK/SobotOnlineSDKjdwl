@@ -19,7 +19,7 @@ DESC
 s.homepage         = "https://github.com/ZCSDK/SobotOnlineSDKjdwl"
 # s.screenshots      = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
 s.license          = 'MIT'
-s.author           = { 'zhangxy' => 'app_dev@sobot.com' }
+s.author           = { 'zhangxy' => 'app_dev@zhichi.com' }
 s.source           = { :git => "https://github.com/ZCSDK/SobotOnlineSDKjdwl.git", :tag => s.version.to_s }                
 # s.social_media_url = 'https://twitter.com/NAME'
 
@@ -33,7 +33,14 @@ s.requires_arc = true
 
 
 s.pod_target_xcconfig = { 'VALID_ARCHS' => 'x86_64 arm64' }
-
+# M 架构校验问题
+#s.pod_target_xcconfig = {
+#    'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64',
+#    'ONLY_ACTIVE_ARCH' => 'NO'
+#  }
+#s.user_target_xcconfig = {
+#    'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
+#  }
 
 # s.resource  = "icon.png"
 s.resources = 'SobotOnline.bundle'
