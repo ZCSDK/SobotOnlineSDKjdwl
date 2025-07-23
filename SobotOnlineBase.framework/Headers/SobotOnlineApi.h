@@ -100,7 +100,7 @@ typedef void(^OnlineProgressBlock)(CGFloat progress);
 
 
 // 查询在线用户
-+(void)getOnlineChatUsers:(OnlineStartBlock ) startBlock successBlock:(OnlineSuccessBlock) resultBlock failBlock:(OnlineFailBlock) failBlock finish:(OnlineFinishBlock) finishBlock;
++(void)getOnlineChatUsers:(NSString *_Nullable)keyword start:(OnlineStartBlock ) startBlock successBlock:(OnlineSuccessBlock) resultBlock failBlock:(OnlineFailBlock) failBlock finish:(OnlineFinishBlock) finishBlock;
 
 
 // 查询排队用户
