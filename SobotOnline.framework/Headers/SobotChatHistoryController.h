@@ -11,7 +11,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 @interface SobotChatHistoryController : SobotOnlineBaseController
-@property(nonatomic,strong) UIViewController *preController;
+@property(nonatomic,weak) UIViewController *preController;
 
 @end
 

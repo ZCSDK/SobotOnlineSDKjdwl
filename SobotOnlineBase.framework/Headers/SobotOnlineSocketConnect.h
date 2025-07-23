@@ -44,6 +44,9 @@ typedef NS_ENUM(NSInteger,SobotOnlineSocketConnectStatus) {
 
 @interface SobotOnlineSocketConnect : NSObject
 
+// 轮训的时间间隔，单位秒，默认5秒
+@property(nonatomic,assign) int looperSpace;
+
 // 接收消息回调
 @property(nonatomic,strong) id<SobotSocketDelegate> __nullable delegate;
 

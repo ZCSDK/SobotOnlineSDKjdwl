@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/SobotChatHistoryController.h</key>
 		<data>
-		uB9InrBMKMR9p+NOZsd0HONYgOg=
+		nyZppSzSRlpWXElrpzG2J/35zA4=
 		</data>
 		<key>Headers/SobotChatHomeController.h</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Headers/SobotChatOnlineController.h</key>
 		<data>
-		DpXAWOTf30zKAKF9tTF61aCjbSk=
+		TpzaR2wHKFswqY943hrOYywc1Q8=
 		</data>
 		<key>Headers/SobotChatTransferController.h</key>
 		<data>
@@ -77,11 +77,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uB9InrBMKMR9p+NOZsd0HONYgOg=
+			nyZppSzSRlpWXElrpzG2J/35zA4=
 			</data>
 			<key>hash2</key>
 			<data>
-			yq9uJ0EVRyT+tfjbfjUNp3MFoTGIYGXkcHjiDE7JbM8=
+			bD2ejz9/KmyXaiTE8fe0uiXq/ZbA/vGmW7rD9+zCSvU=
 			</data>
 		</dict>
 		<key>Headers/SobotChatHomeController.h</key>
@@ -99,11 +99,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DpXAWOTf30zKAKF9tTF61aCjbSk=
+			TpzaR2wHKFswqY943hrOYywc1Q8=
 			</data>
 			<key>hash2</key>
 			<data>
-			q8y3mL26alAAM6Pr+SOijNhAolsgVPyNZBSX76we5sA=
+			Pw7cIwpdU8X+2ze2GZ7rLKysn0Nh13UxujrGXoRpaJA=
 			</data>
 		</dict>
 		<key>Headers/SobotChatTransferController.h</key>

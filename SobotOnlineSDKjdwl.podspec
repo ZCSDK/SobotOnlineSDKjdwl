@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 s.name             = "SobotOnlineSDKjdwl"
 
-s.version          = "0.1.1"
+s.version          = "0.1.2"
 
 s.summary          = "智齿客服在线SDK，支持APP直接对接 A marquee view used on iOS."
 s.description      = <<-DESC

@@ -17,8 +17,10 @@ NS_ASSUME_NONNULL_BEGIN
 // 返回同步
 @property(nonatomic,strong,nullable) NSMutableArray *onlineUsers;
 
-
--(void)startOnlineIM:(NSString *) ipPort;
+-(void)startIM:(NSString *) ipPort;
+-(void)startMaxLooper;
+-(void)startMinLooper;
+-(void)checkIMConnect;
 
 -(void)closeOnlineIM;
 
