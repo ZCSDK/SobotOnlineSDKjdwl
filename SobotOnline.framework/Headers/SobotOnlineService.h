@@ -55,6 +55,25 @@ NS_ASSUME_NONNULL_BEGIN
 +(void )startHomeWithAcount:(NSString *) account status:(int) loginStatus vc:(UIViewController *) byController result:(void (^)(id object))resultBlock;
 
 
+/// 以waSender和userTel启动聊天页(必须先登录客服)
+/// @param waSender waSender
+/// @param userTel 收件人手机号
+/// @param byController 启动的controller,如果为空将返回要启动的UIViewController
+/// 注意：返回值可能为空，如果为空请查看result中日志信息
++(void )startChatDetail:(NSString * ) waSender userTel:(NSString *)userTel vc:(UIViewController *) byController result:(void (^)(id object))resultBlock;
+
+
+/// 以uid启动聊天页(必须先登录客服)
+/// @param uid 用户uid
+/// @param byController 启动的controller,如果为空将返回要启动的UIViewController
+/// 注意：返回值可能为空，如果为空请查看result中日志信息
++(void )startChatDetail:(NSString *) uid vc:(UIViewController *) byController result:(void (^)(id object))resultBlock;
+
+
+// 启动聊天页面，如果未登录，会自动登录(但必须先初始化)
++(void )startChatDetail:(NSString *)account uid:(NSString *) uid waSender:(NSString * ) waSender userTel:(NSString *)userTel vc:(UIViewController *) byController result:(void (^)(id object))resultBlock;
+
+
 
 /// 仅登录客服，不执行页面逻辑
 /// @param account 客服账户(邮箱)

@@ -144,6 +144,16 @@ typedef void(^OnlineProgressBlock)(CGFloat progress);
 +(void)queryUserStatus:(NSString *)uid start:(OnlineStartBlock)startBlock successBlock:(OnlineSuccessBlock)resultBlock failBlock:(OnlineFailBlock)failBlock finish:(OnlineFinishBlock)finishBlock;
 
 
+/// 查询用户信息
+/// @param uid 用户id（waSender和userTel  与  uid 仅传一组即可）
+/// @param waSender waSender description
+/// @param userTel userTel description
+/// @param startBlock startBlock description
+/// @param resultBlock resultBlock description
+/// @param failBlock failBlock description
+/// @param finishBlock finishBlock description
++(void)queryUserStatusV3:(NSString *_Nullable)uid waSender:(NSString *_Nullable)waSender userTel:(NSString *_Nullable) userTel start:(OnlineStartBlock)startBlock successBlock:(OnlineSuccessBlock)resultBlock failBlock:(OnlineFailBlock)failBlock finish:(OnlineFinishBlock)finishBlock;
+
 // 获取客户中心用户信息
 +(void)getUserInfo:(NSString *) uid start:(nonnull OnlineStartBlock)startBlock successBlock:(nonnull OnlineSuccessBlock)resultBlock failBlock:(nonnull OnlineFailBlock)failBlock finish:(nonnull OnlineFinishBlock)finishBlock;
 

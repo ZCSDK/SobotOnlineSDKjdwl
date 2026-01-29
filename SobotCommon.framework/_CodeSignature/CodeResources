@@ -318,7 +318,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		rAsvBH4jU0zgyctG+1FLHb0Tbco=
+		cNtrnTuXc3KmW/fjBiNR2nQAmtA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -329,10 +329,6 @@
 	<dict>
 		<key>Headers/SobotActionMenu.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			P9/GG5kF4UtXQ6KC1njjQW4o3Nw=
-			</data>
 			<key>hash2</key>
 			<data>
 			WIbROZ/X/ZhO5OTtnf2IzPxJhXn+6Qpt16x1E0xX+nQ=
@@ -340,10 +336,6 @@
 		</dict>
 		<key>Headers/SobotActionSheetView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			DuH7Jgn0WC4I6eY2uJLaz+0NP6o=
-			</data>
 			<key>hash2</key>
 			<data>
 			2XSjpXEeNP69KTxef+7/94iQtXF57FDl5fdYbCIEktk=
@@ -351,10 +343,6 @@
 		</dict>
 		<key>Headers/SobotAlertView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			nVI91XQ9iBgJrhgRjXv7mWKdGgw=
-			</data>
 			<key>hash2</key>
 			<data>
 			hVPhcXlxT5CxlmHvZnaVwbC2farxjc3nAKuk5JQy9Cw=
@@ -362,10 +350,6 @@
 		</dict>
 		<key>Headers/SobotAttributedLabel.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+/jv9g44zi6ozzQrc0SRr3sJ3vk=
-			</data>
 			<key>hash2</key>
 			<data>
 			PsMNPo/7z6XfBDZLCLF0kERnk0FGMQd9yikw9DeeVFk=
@@ -373,10 +357,6 @@
 		</dict>
 		<key>Headers/SobotAuth.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			CCXh1ddbhCITBrfBaL3iSZRBwAw=
-			</data>
 			<key>hash2</key>
 			<data>
 			NBqEhIyY7XH7QCyjrDuBvTSpniZi932o93ReZm8MPFg=
@@ -384,10 +364,6 @@
 		</dict>
 		<key>Headers/SobotBaseController.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8RmA2Me3TP4VZ1crEg6R/+Yeh78=
-			</data>
 			<key>hash2</key>
 			<data>
 			O3B/2he4lrJbXxogkcDXwdTaaVYoxEvyC2Gg2mTi6rI=
@@ -395,10 +371,6 @@
 		</dict>
 		<key>Headers/SobotBaseEntity.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ax+7zMPAEMd6E8o5sggXvGYrsSI=
-			</data>
 			<key>hash2</key>
 			<data>
 			ir6VKCxPuz2ulz7R4W1VviKIewBeN0gOBdDMFOvIfmk=
@@ -406,10 +378,6 @@
 		</dict>
 		<key>Headers/SobotButton.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RYsLKei1lOI1m3YBdN6dGyLFTZ8=
-			</data>
 			<key>hash2</key>
 			<data>
 			0dVo32z4gREwAufeC7HNleGERVbjMw1MQWvPgEWCLyQ=
@@ -417,10 +385,6 @@
 		</dict>
 		<key>Headers/SobotButtonUpDown.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			g4Hpe1y1k08B8Ym+PGJMr/RY5f8=
-			</data>
 			<key>hash2</key>
 			<data>
 			QonAlKLkd1PwETL+YEeUSWHYJIBIrvz8lyWR/sl5dsI=
@@ -428,10 +392,6 @@
 		</dict>
 		<key>Headers/SobotCache.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			VLQ4cRJfl6gCFxHorraKw5Y2QIU=
-			</data>
 			<key>hash2</key>
 			<data>
 			W9nmn+9YWthtCBzsntE+rnyxQXS7tz8e3/HOWCRL1yQ=
@@ -439,10 +399,6 @@
 		</dict>
 		<key>Headers/SobotCacheEntity.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Y86BDHUqpBV7+LrC3WTCpUVWe50=
-			</data>
 			<key>hash2</key>
 			<data>
 			rZWurf+qTXaUk5KFNfTUeYIWlQVtuK6kNfZWJeBKXUM=
@@ -450,10 +406,6 @@
 		</dict>
 		<key>Headers/SobotChatMessage.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			v+V90RvktL1ofPgwyeVFBatKRas=
-			</data>
 			<key>hash2</key>
 			<data>
 			0oUDQGmshCwWNkCQDcZBk7UEUTOZVtMRVbmENEpnqvg=
@@ -461,10 +413,6 @@
 		</dict>
 		<key>Headers/SobotCommon.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			NioYdszWQ87Mc2j7QEe85BRx5XU=
-			</data>
 			<key>hash2</key>
 			<data>
 			pR7Bv3LGWUF4G5qKXiw5W9pZI5Yc+366UU5kBropgqI=
@@ -472,10 +420,6 @@
 		</dict>
 		<key>Headers/SobotCommonDefine.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ESmxwmK9j9Hf0jtw8EWHFxIdQy0=
-			</data>
 			<key>hash2</key>
 			<data>
 			WUWS30bGYrETAFT/uzRm9j2Y4+JmogRqNkM+dUgoCj0=
@@ -483,10 +427,6 @@
 		</dict>
 		<key>Headers/SobotCommonVersion.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			V/CgGgUIXiL0S+qaDCEVINMKq5M=
-			</data>
 			<key>hash2</key>
 			<data>
 			lAb7FPaIVIHWG71Pp5cPVKQvTDFthc4XWEA75CoJ9ho=
@@ -494,10 +434,6 @@
 		</dict>
 		<key>Headers/SobotDatePickView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			JzuYzRlvAfC1g3qKxcOvu4H098I=
-			</data>
 			<key>hash2</key>
 			<data>
 			ab10p+z/3xk3yQ5bxtI550+JDswIUNKdCNP0E1OAFGI=
@@ -505,10 +441,6 @@
 		</dict>
 		<key>Headers/SobotDateTimes.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			tQo7UEIityvosEDWj1Y8rffppRA=
-			</data>
 			<key>hash2</key>
 			<data>
 			DZY8zRPrLWEluLuu1GYs/YXTeJc1PaFlrl8soe4CjWc=
@@ -516,10 +448,6 @@
 		</dict>
 		<key>Headers/SobotDeviceTools.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			v5ssIo4WGgNcUGWCkD9wWiejcoU=
-			</data>
 			<key>hash2</key>
 			<data>
 			rDkI29cr9cuZ1u4bLkRLUbHS3gU7Jok4lnYV6dmMFUU=
@@ -527,10 +455,6 @@
 		</dict>
 		<key>Headers/SobotEmojiBoardView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			WH3UkAtZftJQ9zuxBeN4VhecG7s=
-			</data>
 			<key>hash2</key>
 			<data>
 			J9nwy9XsN5QiWXM5HbofEM29J0SuqlVJkPvmIYqX2kM=
@@ -538,10 +462,6 @@
 		</dict>
 		<key>Headers/SobotEmojiLabel.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hmACuTDRQ77EE4h1eEkwUwFo10A=
-			</data>
 			<key>hash2</key>
 			<data>
 			oHzs5fYv666atI1wcBsukJ1SuDbwYNxYaAH7oURb2QY=
@@ -549,10 +469,6 @@
 		</dict>
 		<key>Headers/SobotExtenalHeader.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Ii6ztP71N0OjQm/BvX+KZGi8zK0=
-			</data>
 			<key>hash2</key>
 			<data>
 			wgj6X4shsg+DB53bCC5PSL7ZHv0D9Evwv9zepUgCcSk=
@@ -560,10 +476,6 @@
 		</dict>
 		<key>Headers/SobotFontColor.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			A8LFab9S8UNJV3Mv7EDHjOeEU4E=
-			</data>
 			<key>hash2</key>
 			<data>
 			GXOOPA3u8SzLMnQFYdSz0bIaWhOjpLoywVHPh6QnPxg=
@@ -571,10 +483,6 @@
 		</dict>
 		<key>Headers/SobotHtmlCore.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			CJ6glIGy6xJPKEEnSeCcl97Q3GA=
-			</data>
 			<key>hash2</key>
 			<data>
 			ZZxQvjFJ23T9X4Nt6kxBb6l9ddyJDys/SbcUGEdB5gY=
@@ -582,10 +490,6 @@
 		</dict>
 		<key>Headers/SobotHttps.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5eY27Cy3gwaYQooa+RcBDek66+w=
-			</data>
 			<key>hash2</key>
 			<data>
 			xM0nri7LLAoSt2l11JWyb1Jv2ITFKkh8j37AdC1qpMY=
@@ -593,10 +497,6 @@
 		</dict>
 		<key>Headers/SobotImagePickerTools.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/LI6FWZ2ZTqaMapdPt6mJruyW2Q=
-			</data>
 			<key>hash2</key>
 			<data>
 			9TzpeV4jPs7VI6aMxqiUOLF9bEYOo0YGDmz1xQupkiU=
@@ -604,10 +504,6 @@
 		</dict>
 		<key>Headers/SobotImageTools.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Vhnf800TzRWHCdTJvAGWTzDFg/4=
-			</data>
 			<key>hash2</key>
 			<data>
 			KwxRm51qV9cXUlpKCFOyjEWL6zpdLal0frjYItITT1I=
@@ -615,10 +511,6 @@
 		</dict>
 		<key>Headers/SobotImageView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			dkuJGXGRF/VjrOtMxFjSF6L6dsc=
-			</data>
 			<key>hash2</key>
 			<data>
 			oVFugF4S8yOnXUiODr6YuZUtOIQoikbzbpyLD66XMkY=
@@ -626,10 +518,6 @@
 		</dict>
 		<key>Headers/SobotIndefiniteAnimatedView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			HSglrkbVxI1S8+5YkN4zmTjQg1Q=
-			</data>
 			<key>hash2</key>
 			<data>
 			fF6O1PHEOW0LDubYYX5PT0iNM4LAZ8dwgD+EuWKtyZQ=
@@ -637,10 +525,6 @@
 		</dict>
 		<key>Headers/SobotKxMenu.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			4WjUWEl4+1oVmzX5UEH0a5r852s=
-			</data>
 			<key>hash2</key>
 			<data>
 			bLsgcnIKjXIOsQXZtpZ5ueKlIFTMUgwrQgkOcN8522w=
@@ -648,10 +532,6 @@
 		</dict>
 		<key>Headers/SobotLayoutTools.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QqH6UJRDJp/Hx//8oRWXyfX0FNA=
-			</data>
 			<key>hash2</key>
 			<data>
 			zcbXIhwfCaD7BJs7MrHskg/eyBGuFVBR1+7vnqISF+Q=
@@ -659,10 +539,6 @@
 		</dict>
 		<key>Headers/SobotLocaliable.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			3j2nQKLAqolUDld6puJ39lgPWzI=
-			</data>
 			<key>hash2</key>
 			<data>
 			iBMBQL2kO5tcIlQJjlR22zO2ll0PB+8YkIBDuDr5GTM=
@@ -670,10 +546,6 @@
 		</dict>
 		<key>Headers/SobotLog.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lQlGHRdwGKIhoq4Uz2pv+0yLGQ8=
-			</data>
 			<key>hash2</key>
 			<data>
 			pPBZO0vgRJeXgH9Nb56iXVpA+Ru3F2cpnTYJZIaYcAo=
@@ -681,10 +553,6 @@
 		</dict>
 		<key>Headers/SobotLoginEntity.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			1dsrEsiS5aJQtSWboxAFXQ+ZJf4=
-			</data>
 			<key>hash2</key>
 			<data>
 			lu54D/X2xI0osTY58x2ukrr5g7cBTiyqq0+WsEIwwUw=
@@ -692,10 +560,6 @@
 		</dict>
 		<key>Headers/SobotLoginTools.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Y5LfHTNNIkcLnScntsVUplMpfVE=
-			</data>
 			<key>hash2</key>
 			<data>
 			yM//SpiUuMzpctEvwH2vQJ0c76M52oTS6Yc6U/zNi0k=
@@ -703,10 +567,6 @@
 		</dict>
 		<key>Headers/SobotLooperTools.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			528QCWO8e9lsYiJ7Wqp2z7AHxIg=
-			</data>
 			<key>hash2</key>
 			<data>
 			z5dVYCzhd8J22/f6tzRBct2Tm0wYsGz5XcsdOUdeBlI=
@@ -714,10 +574,6 @@
 		</dict>
 		<key>Headers/SobotMenuCell.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			DBTSY4R1UPlBJGP0Yquql2/npLE=
-			</data>
 			<key>hash2</key>
 			<data>
 			Ojr2z0HAQPXQrh+4c6GOJOAIQouDUChwQzesRg+hq4Y=
@@ -725,10 +581,6 @@
 		</dict>
 		<key>Headers/SobotMenuItem.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			fETrS3R5EzgL9pANGOzUPyUO3BI=
-			</data>
 			<key>hash2</key>
 			<data>
 			cx+6UPe9yC5Uz2aB1Acy5flFK2bOEt70LbpQkMzW51c=
@@ -736,10 +588,6 @@
 		</dict>
 		<key>Headers/SobotNetwork.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			npBeE0GbXXc4UdZd/TUbefiVb0Y=
-			</data>
 			<key>hash2</key>
 			<data>
 			3sH40B6kZPuz9VvBFJzKWmuf6bPif16aB5g+itmE5fo=
@@ -747,10 +595,6 @@
 		</dict>
 		<key>Headers/SobotNetworkObserve.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jRqfxix0cFp5N7iKukvA1eaSkog=
-			</data>
 			<key>hash2</key>
 			<data>
 			D79Jus1MRr1jlPeG7jtLIBBWnO39dvxoi6sYBMwkRto=
@@ -758,10 +602,6 @@
 		</dict>
 		<key>Headers/SobotNetworkReachability.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			0biWeszP4iP9v1w9NRLHYoGLhkU=
-			</data>
 			<key>hash2</key>
 			<data>
 			eQoSzwnIgYsCTIxxU6mzYskrT6OjGOmXWfW8F8TEAPs=
@@ -769,10 +609,6 @@
 		</dict>
 		<key>Headers/SobotNotificationTools.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			0+bUZluU68rhcgl35kVn2do48bw=
-			</data>
 			<key>hash2</key>
 			<data>
 			/BtHlhISMvVIIRtdByEupHmKbob/PWygeAVuyjk5360=
@@ -780,10 +616,6 @@
 		</dict>
 		<key>Headers/SobotPickView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			u8VJodxrIELXxz/z2pXvu2vke2o=
-			</data>
 			<key>hash2</key>
 			<data>
 			Z2bKZWvcSQKIcSoR3KBQCoW7GsNghcfOL5/GFa8yFss=
@@ -791,10 +623,6 @@
 		</dict>
 		<key>Headers/SobotProgressAnimatedView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			SgM2LP5glMB5JJBQCqhG3or535U=
-			</data>
 			<key>hash2</key>
 			<data>
 			+ZymT5PbGXaA7uMioHjIzGjiHiX72bZsIYPzP+Agzc8=
@@ -802,10 +630,6 @@
 		</dict>
 		<key>Headers/SobotProgressHUD.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			vb5sv62VPjxHsliOGKepmTVirA0=
-			</data>
 			<key>hash2</key>
 			<data>
 			hNPDL8JsfoXd7HVperarHISs+pLwnUfNDI4Uxc08Wp4=
@@ -813,10 +637,6 @@
 		</dict>
 		<key>Headers/SobotProgressView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			OG088aHysFSU7hk7nXg73J1a6tc=
-			</data>
 			<key>hash2</key>
 			<data>
 			JYWDH+ZsK7QnziARlyjy1EA4DW/p2oKxY2mQstUJdms=
@@ -824,10 +644,6 @@
 		</dict>
 		<key>Headers/SobotRadialGradientLayer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			DH0ZDHcPZaM22D7zg+0UsEN4/7A=
-			</data>
 			<key>hash2</key>
 			<data>
 			MmbczK+0oK4UAJtic3JZRpGoGe+bsCURSaw30LhejmU=
@@ -835,10 +651,6 @@
 		</dict>
 		<key>Headers/SobotRefreshComponent.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			eoVsu89Qg7kgyau6i4pIXNJc9pA=
-			</data>
 			<key>hash2</key>
 			<data>
 			OxlHOcFOj+w3U/O+nINqObIld5chCr9zyKozWufomFw=
@@ -846,10 +658,6 @@
 		</dict>
 		<key>Headers/SobotRefreshFooterView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			M6b0B6Od3ru8lqO82d1g7qwkYzE=
-			</data>
 			<key>hash2</key>
 			<data>
 			52yCqHpa43N/YbAb+6gr/7sWPcIBMXLBYbZBwnDlrgc=
@@ -857,10 +665,6 @@
 		</dict>
 		<key>Headers/SobotRefreshHeaderView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wh651HXJgRIkURuD6sqdZR9vT7U=
-			</data>
 			<key>hash2</key>
 			<data>
 			2vs5Qep5OAR3NuSiIZAy4aFt+Mc3UxzqtFOaLT2h9UI=
@@ -868,10 +672,6 @@
 		</dict>
 		<key>Headers/SobotRefreshHelper.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2aMwCbDYyG1PdR8I8Xx/ZNassA0=
-			</data>
 			<key>hash2</key>
 			<data>
 			53cpaMtLmz2DGee4ha7A32KAczwi3teO6isJF2DUTyw=
@@ -879,10 +679,6 @@
 		</dict>
 		<key>Headers/SobotRequest.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Vkxl4nTodpT5IzaOW6R1pgwtKRE=
-			</data>
 			<key>hash2</key>
 			<data>
 			MHr3Dy+AAcw7Yn53nImi6VU5HcVTSayIQEKGcrAiqD8=
@@ -890,10 +686,6 @@
 		</dict>
 		<key>Headers/SobotRequsetSerializer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			xYMNHQ0UW9/FSzBW76Fkt2S3KSM=
-			</data>
 			<key>hash2</key>
 			<data>
 			Uzh+xk4z+D0EnjG/0fQFHdE7Xo/m3qDXYBNI0IbDQJ4=
@@ -901,10 +693,6 @@
 		</dict>
 		<key>Headers/SobotSSKeychain.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2fW5FOb4G/AJXPwvoYr+8gTRoZ4=
-			</data>
 			<key>hash2</key>
 			<data>
 			6QJ7U2nRu/klCH03S0rQSvbFU9UAUFwwbwLiTUiAz8c=
@@ -912,10 +700,6 @@
 		</dict>
 		<key>Headers/SobotSSKeychainQuery.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			dWneDYfY5cHduESmoZnrg9/8lbI=
-			</data>
 			<key>hash2</key>
 			<data>
 			PWYepDDoqidysrxqmF1JFxSzenghUMyg6U2TOZ2+bY8=
@@ -923,10 +707,6 @@
 		</dict>
 		<key>Headers/SobotScrollView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wCRcryQIPz5mOksCU2spa64KsWM=
-			</data>
 			<key>hash2</key>
 			<data>
 			YY6m1msDrj20+YT4tA0yfb0MxZLOW3uQRVRIDPMxY7A=
@@ -934,10 +714,6 @@
 		</dict>
 		<key>Headers/SobotSheetView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			nsX9DzbNYEfjonrkU7ej+FulAF0=
-			</data>
 			<key>hash2</key>
 			<data>
 			vQ0TqOijBffmb/QRtKp7HxAHiEF7i85Gt7fmiY7eous=
@@ -945,10 +721,6 @@
 		</dict>
 		<key>Headers/SobotSocketConnect.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			m4It9OCUaMvzQJExQo1BboYouOQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			jqbUrnwsYW27g0Y83Teoz0F1vs1JrNMLigkTM317/iI=
@@ -956,10 +728,6 @@
 		</dict>
 		<key>Headers/SobotTableView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6tHSfAc+7ismY3rl8CFLTKFaUME=
-			</data>
 			<key>hash2</key>
 			<data>
 			//3/YDUSiHqWJx88iEvXHu+JMm6lmk5YIPWlP/U6Lq8=
@@ -967,10 +735,6 @@
 		</dict>
 		<key>Headers/SobotTcpDataProcessor.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			rEoOhBKv0HCuASOCzhuzqda1JPw=
-			</data>
 			<key>hash2</key>
 			<data>
 			iiwoOw6BuAim6WEEj09BahCFAff1OwlzrJ7mPQI6q/Y=
@@ -978,10 +742,6 @@
 		</dict>
 		<key>Headers/SobotTcpServer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6gJiZA/yEKGGLDwcvD1kOqxPW/A=
-			</data>
 			<key>hash2</key>
 			<data>
 			uHzavSa68d3GNPu2E8/eChAmesneBlTWjcrleRclmOc=
@@ -989,10 +749,6 @@
 		</dict>
 		<key>Headers/SobotTextView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			DKqHIq0kENaBeBMMFN3+sY01xfY=
-			</data>
 			<key>hash2</key>
 			<data>
 			GpLJ0V1XLR3LzAlKF3VKdrdRdKDugcTfNDjgasmeQek=
@@ -1000,10 +756,6 @@
 		</dict>
 		<key>Headers/SobotToast.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			klr+uT5cW2fRYlJIstDm30Qw6jo=
-			</data>
 			<key>hash2</key>
 			<data>
 			LsYCQbwGrgYgxZrdgRJiSNQy/0NACPczhhjq3bpujHA=
@@ -1011,10 +763,6 @@
 		</dict>
 		<key>Headers/SobotUI.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			k5EKLfIv7q4DkmkOSa4P1MidH7o=
-			</data>
 			<key>hash2</key>
 			<data>
 			pjvWaY1TFTQAf93wUk5go8ATFJRVAvlsoUuVan3SPho=
@@ -1022,10 +770,6 @@
 		</dict>
 		<key>Headers/SobotUIImageLoader.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			TIRSs703V/JxThqG+HNUtRwhWa8=
-			</data>
 			<key>hash2</key>
 			<data>
 			oPFoCwkeHsv41jXlPd+reM8qGKqnRREZPHPr6Y28Fm4=
@@ -1033,10 +777,6 @@
 		</dict>
 		<key>Headers/SobotUIImageView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Vbznu7jr515nO90Y6gjaBUTN/3c=
-			</data>
 			<key>hash2</key>
 			<data>
 			3aphfU2XFfako+l3rNDv28UwIDgkpECfriqWl0SFzqo=
@@ -1044,10 +784,6 @@
 		</dict>
 		<key>Headers/SobotUITools.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			OCKDKAYebrHrHmZ/UquJgEAEcxk=
-			</data>
 			<key>hash2</key>
 			<data>
 			oSp//UEfoe7TjMQdVDMGmGYK0loUU382r0qtt8rB44k=
@@ -1055,10 +791,6 @@
 		</dict>
 		<key>Headers/SobotURLSessionDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			sa4vXxgalQau6fATe+qQ2fhkImY=
-			</data>
 			<key>hash2</key>
 			<data>
 			Tpx3mvkJY5zQYMVHHZdxWy+K/eZipXn65Wz42gb6LOk=
@@ -1066,10 +798,6 @@
 		</dict>
 		<key>Headers/SobotUtils.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			x7hwwKWEm6oTgE/I2CJ6DwlPOsA=
-			</data>
 			<key>hash2</key>
 			<data>
 			usHGDytaG2ge7xvwA7ABSbsDCC8Adv3JQ3r1vQJvPEg=
@@ -1077,10 +805,6 @@
 		</dict>
 		<key>Headers/SobotVersion.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			VI37JtigeR70VM7Z3EUQJa6FS70=
-			</data>
 			<key>hash2</key>
 			<data>
 			yXcMMV2hkvY7u/D1weOh8TwzwtKLi5iKWJ7s3EEhUS0=
@@ -1088,10 +812,6 @@
 		</dict>
 		<key>Headers/SobotVideoPlayer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			OE+glxau1bc0wfMmHrdY3zWrhvY=
-			</data>
 			<key>hash2</key>
 			<data>
 			OYrJw0x9fUUDsu8tWC7wdTWKvS3UHp34XaZQx3LDKkE=
@@ -1099,10 +819,6 @@
 		</dict>
 		<key>Headers/SobotView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			pydM6cIRmbJBvE+cK2lGcp3L4yM=
-			</data>
 			<key>hash2</key>
 			<data>
 			2NG+ONgmAXFYOsj/MSx6JBecsuOClM2Mqa1JxRBGIrs=
@@ -1110,10 +826,6 @@
 		</dict>
 		<key>Headers/SobotVoiceTools.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5WN+ZZ/6sb9aazNTvRNtHImyg90=
-			</data>
 			<key>hash2</key>
 			<data>
 			2qu3F2ksDRKKfAqf+4MpcOW4rifM2ZbZp88hAHVqvNY=
@@ -1121,10 +833,6 @@
 		</dict>
 		<key>Headers/SobotXHCacheManager.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			azBnkIi/m9q8qhC4oxRLtY4LNOY=
-			</data>
 			<key>hash2</key>
 			<data>
 			vGVQ4i3GnFh3/j+rQm1ajNMEKgOzIvOKjVZN8Kg3Whg=
@@ -1132,10 +840,6 @@
 		</dict>
 		<key>Headers/SobotXHFileAttribute.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6gFU3fmQRlR6RoqGfH+pirKLrYs=
-			</data>
 			<key>hash2</key>
 			<data>
 			2GAubtODzD5OcNEH5YtQoY4xWZIuepH1J2YENHLjYx4=
@@ -1143,10 +847,6 @@
 		</dict>
 		<key>Headers/SobotXHImageURLDataSource.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			V1nloXxzRs6+PJ56PBwxplpTuag=
-			</data>
 			<key>hash2</key>
 			<data>
 			QRD7HzVoRcTQCqCGBUw9NKZKxms8ArrIrtVqAQmioeg=
@@ -1154,10 +854,6 @@
 		</dict>
 		<key>Headers/SobotXHImageViewer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			l65nUN2xiQg8qUOVsK0mk5UvF6g=
-			</data>
 			<key>hash2</key>
 			<data>
 			y9YpldqD4WTJ43COFbJm5QlxmaPmiR2I9UPFJN+XbzQ=
@@ -1165,10 +861,6 @@
 		</dict>
 		<key>Headers/SobotXHViewState.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5mPhb3Q1eFYhqqXOYg8g8N0LlsM=
-			</data>
 			<key>hash2</key>
 			<data>
 			95fTj9lbOiPl89NjQ/qS9EjExjt4Z2xJcSKL65XNaoc=
@@ -1176,10 +868,6 @@
 		</dict>
 		<key>Headers/SobotXHZoomingImageView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			qgOBww2F4htm1IN4sEhZ1PsVelA=
-			</data>
 			<key>hash2</key>
 			<data>
 			LOUiXhfzXRKRODQSpvxs5fUAi9Im/7g5cr5f/6W04nU=
@@ -1187,10 +875,6 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			NO/g1cc+9284RDcPxikFcXtzRB4=
-			</data>
 			<key>hash2</key>
 			<data>
 			FG+lmBMMBqmNfhmTaN/D/cj0dXdXsjBdpgY86xZ8+PA=
