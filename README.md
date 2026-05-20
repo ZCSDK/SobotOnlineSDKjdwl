@@ -5,7 +5,8 @@
 pod 'SobotOnlineSDKjdwl'
 
 ```
-
+## 0.1.4版本
+1、增加回调参数code
 
 ## 0.1.2版本
 1、去掉刷新权限请求，反正token失效。  
